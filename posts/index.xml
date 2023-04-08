@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>rkcpn</title>
-    <link>https://rkcpn.github.io/</link>
-    <description>Recent content on rkcpn</description>
+    <title>Posts on rkcpn</title>
+    <link>https://rkcpn.github.io/posts/</link>
+    <description>Recent content in Posts on rkcpn</description>
     <image>
       <title>rkcpn</title>
       <url>https://rkcpn.github.io/papermod-cover.png</url>
       <link>https://rkcpn.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Apr 2023 12:13:11 +0200</lastBuildDate><atom:link href="https://rkcpn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Apr 2023 12:13:11 +0200</lastBuildDate><atom:link href="https://rkcpn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://rkcpn.github.io/posts/hello-world/</link>
