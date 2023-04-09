@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on rkcpn</title>
-    <link>https://rkcpn.github.io/tags/</link>
-    <description>Recent content in Tags on rkcpn</description>
-    <image>
-      <title>rkcpn</title>
-      <url>https://rkcpn.github.io/papermod-cover.png</url>
-      <link>https://rkcpn.github.io/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://rkcpn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on</title><link>https://nunocoracao.github.io/blowfish/tags/</link><description>Recent content in Tags on</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://nunocoracao.github.io/blowfish/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
