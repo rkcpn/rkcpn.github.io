@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://rkcpn.github.io/sitemap.xml
